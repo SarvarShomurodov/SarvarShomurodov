@@ -1,17 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sarvar%20Shomurodov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=20" />
+</div>
 
-```
-███████╗ █████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗
-██╔════╝██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗
-███████╗███████║██████╔╝██║   ██║███████║██████╔╝
-╚════██║██╔══██║██╔══██╗╚██╗ ██╔╝██╔══██║██╔══██╗
-███████║██║  ██║██║  ██║ ╚████╔╝ ██║  ██║██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<div align="center">
 
-### 🚀 Backend Developer · Uzbekistan
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+Laravel+%7C+Java;Building+scalable+systems+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+Laravel+%7C+Java;Building+scalable+systems+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=sarvarshomurodov&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="profile views" />
 
@@ -24,21 +17,20 @@
 ```java
 public class Sarvar extends Developer {
 
-    private String name     = "Sarvar Shomurodov";
-    private String location = "🇺🇿 Uzbekistan";
-    private String role     = "Backend Developer";
-    private String email    = "sarvar9818sh@gmail.com";
+    String name     = "Sarvar Shomurodov";
+    String location = "🇺🇿 Uzbekistan";
+    String role     = "Backend Developer";
+    String email    = "sarvar9818sh@gmail.com";
 
-    private String[] currentlyLearning = {
+    String[] currentlyLearning = {
         "Spring Boot ☕",
         "Laravel 🐘"
     };
 
-    private String funFact = "I am very curious and active 😁";
+    String funFact = "I am very curious and active 😁";
 
-    @Override
-    public String toString() {
-        return "Passionate about building clean, scalable backend systems!";
+    public String mission() {
+        return "Building clean, scalable backend systems!";
     }
 }
 ```
@@ -62,29 +54,12 @@ public class Sarvar extends Developer {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database & Tools
+### 🗄️ Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Statistikalar | GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarvarshomurodov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarshomurodov&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarshomurodov&theme=tokyonight" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarshomurodov&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -97,16 +72,37 @@ public class Sarvar extends Developer {
 
 ---
 
+## 📊 GitHub Statistikalar | GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarvarshomurodov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarshomurodov&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sarvarshomurodov&theme=tokyonight" alt="streak stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarshomurodov&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
 ## 📈 Hozir o'rganmoqdaman | Currently Learning
 
 <div align="center">
 
 | 🌱 Texnologiya | 📊 Progress |
-|:---:|:---:|
-| Spring Boot | ████████░░ 80% |
-| Laravel | ███████░░░ 70% |
-| Docker | ██████░░░░ 60% |
-| Microservices | █████░░░░░ 50% |
+|:---|:---|
+| ☕ Spring Boot | `████████░░` 80% |
+| 🐘 Laravel | `███████░░░` 70% |
+| 🐳 Docker | `██████░░░░` 60% |
+| 🔗 Microservices | `█████░░░░░` 50% |
 
 </div>
 
@@ -126,15 +122,10 @@ public class Sarvar extends Developer {
 
 <div align="center">
 
-### 💡 Fikr | Quote of the Day
-
 > *"Code is like humor. When you have to explain it, it's bad."*
-> — Cory House
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
 
 ⭐ **Agar loyihalarim yoqqan bo'lsa, star bosishni unutmang!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 </div>
